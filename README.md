@@ -60,5 +60,4 @@ Steps:
 - transformers (HuggingFace)
 - datasets
 - matplotlib / seaborn
-- Jupyter Notebook
 - OpenAI API key (for GPT-based labeling)
